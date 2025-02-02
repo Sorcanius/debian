@@ -1,10 +1,10 @@
 #!/bin/bash
 
 testing {
-  blabla
+	blabla
 }
 
   
 und das 2. (
-  blablabla
+	blablabla
 )
